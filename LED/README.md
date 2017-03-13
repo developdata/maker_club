@@ -12,4 +12,4 @@ The image shows how to wire the Arduino.
 Follow the diagram to create the circuit, once this is done connect the Arduino to a computer and the LED should light up.
 
 
-![Image of Circuit](https://github.com/developdata/maker_club/LED2.png)
+![Image of Circuit](https://github.com/developdata/maker_club/blob/master/LED/LED2.png)
